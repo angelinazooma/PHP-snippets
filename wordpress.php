@@ -14,6 +14,17 @@ function aa_custom_menu( $items,$args ) {
 }
 
 
+// add fonts to theme
+// this function adds both font awesome and google fonts css to the theme
+
+function add_fonts() {
+	wp_register_style( 'font_awesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css', array(), null );
+	wp_enqueue_style('font_awesome');
+	wp_register_style( 'googlefonts', 'https://fonts.googleapis.com/css?family=Raleway:300,600,300italic,600italic', array(), null );
+	wp_enqueue_style('googlefonts');
+}         
+add_action('wp_enqueue_scripts', 'add_fonts');
+
 
 
 
