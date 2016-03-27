@@ -1,0 +1,852 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"wrap",
+				"wrapStyle"
+			],
+			[
+				"grad",
+				"gradientBlue"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"clear",
+				"clearStyle"
+			],
+			[
+				"purp",
+				"purpleL"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"dyna",
+				"dynamicceramics"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"screen",
+				"screen-lg-min"
+			],
+			[
+				"store",
+				"storeexists"
+			],
+			[
+				"sc",
+				"screen-md-min"
+			],
+			[
+				"scre",
+				"screen-md-min"
+			],
+			[
+				"scree",
+				"screen-md-min"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"text-",
+				"text-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 319.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/A/Dropbox/Git/PHP-snippets"
+	],
+	"file_history":
+	[
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sitefiles/wp-content/themes/martysHeating/footer.php",
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sitefiles/wp-content/themes/martysHeating/front-page.php",
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sitefiles/wp-content/themes/martysHeating/includes/banner.php",
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sftp-config.json",
+		"/C/Users/Angie/Desktop/inbox/EarthTreasures/ET-html/anniversary-bands.html",
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sitefiles/wp-content/themes/martysHeating/javascript/scripts.js",
+		"/A/Dropbox/TRUNDLEMEDIA/Marty's Heating/html/sitefiles/wp-content/themes/martysHeating/style.css",
+		"/A/Dropbox/TRUNDLEMEDIA/SWS/NiagaraExecutiveRentals/html/sitefiles/wp-config.php",
+		"/A/Dropbox/TRUNDLEMEDIA/SWS/NiagaraExecutiveRentals/html/.htaccess",
+		"/A/Dropbox/TRUNDLEMEDIA/SWS/NiagaraExecutiveRentals/html/sitefiles/wp-content/themes/swank/functions.php",
+		"/A/Dropbox/TRUNDLEMEDIA/SWS/NiagaraExecutiveRentals/functions-wtf.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/page-home.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/results.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/footer.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/page-full-width2.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/page-free2list.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/includes/z_variables_site.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/includes/country-search.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/free2list_importer.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/faq.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/faq",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/property-single.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/.htaccess",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/includes/variables.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/plugins/free2list/multiple-cities.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/static/social.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/page-agent-pages.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/page-agent-listings.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/header.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/sitefiles/wp-content/themes/findlistings/404.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/includes/city-search.php",
+		"/A/Dropbox/CRMS/Excelagent Network/WEBSITES/InternationalListings/html/includes/canonical.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-property-single.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/mortgage-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-mortgage-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/css/style.css",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/mu-plugins/gd-system-plugin/plugins/limit-login-attempts/limit-login-attempts.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/less/style.less",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/variables.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/lease-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/functions.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/page.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/footer.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/single.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-full-width.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-mortgage-question.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-property-results.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-propman.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-coaching-programs.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/single-video-blog.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/category-video-blog.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/sidebar-blog.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/mortgage-application-short.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-mortgage-application-short.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/coaching-programs.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/sidebar-programs.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/application-send.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/front-page.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-rental-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/page-financing.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/sidebar.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/application-send.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/coaching-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/maintenance-request.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/infosheet-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/contact-form.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/mortgage-question.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/rental-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-property-info-sheet.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-lease-application.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/property-info-sheet.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-contact.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/tell-a-friend.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-tell-a-friend.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-maintenance-request.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/connect.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/send/tenant-request.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/index.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/comments.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/404.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-tenant-request.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/template-application-form.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/current-server-everything/blog/wp-content/themes/canvas/functions.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/current-server-everything/blog/wp-config.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html -OLD/.htaccess",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/config.core.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html -OLD/blog/wp-config.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html -OLD/blog/wp-content/themes/wamproperties/style.css",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html -OLD/blog/wp-content/themes/canvas/functions.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/template-tenant-request.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/service-area.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html -OLD/index.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/feature.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/testimonials.php",
+		"/C/Users/Angie/Desktop/inbox/WAM/fontello-1db0a1dd/demo.html",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/sftp-config.json",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/property-results.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/banner.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/search.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/archive.php",
+		"/C/Users/Angie/Desktop/theme/index.html",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/propman-services.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/header.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/custom-menu.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/menu/style.less",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/social-buttons.php",
+		"/A/Dropbox/resources/elements.less",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/newsletter-signup.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/includes/newsletter-signup",
+		"/C/Users/Angie/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Angie/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Angie/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/text.html",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/ftpsync.settings",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/index.php",
+		"/A/Dropbox/TRUNDLEMEDIA/WAM/WAM/html/wp-content/themes/wamproperties/style.css",
+		"/C/Users/Angie/AppData/Roaming/Sublime Text 3/Packages/User/FTPSync.sublime-settings",
+		"/A/Dropbox/TRUNDLEMEDIA/SWS/Berman Stairs/html/ftpsync.settings",
+		"/A/Dropbox/VRB/Omni/html/about.php",
+		"/A/Dropbox/VRB/Omni/html/auction/item.php",
+		"/A/Dropbox/VRB/Omni/html/contact.php",
+		"/A/Dropbox/VRB/Omni/html/cash-for-gold.php",
+		"/A/Dropbox/VRB/Omni/html/auction.php",
+		"/A/Dropbox/VRB/Omni/html/includes/inventory.php",
+		"/A/Dropbox/VRB/Omni/html/jewellery/item.php",
+		"/A/Dropbox/VRB/Omni/html/includes/paypal-cart.php",
+		"/A/Dropbox/VRB/Omni/html/index.php",
+		"/A/Dropbox/VRB/Omni/html/about/testimonials.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"",
+			"A:\\Dropbox\\VRB\\Omni\\",
+			"A:\\Dropbox\\VRB\\Omni\\html\\admin-keele",
+			"",
+			"A:\\Dropbox\\VRB\\Omni\\html\\admin",
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar",
+			"header",
+			"homepage-logo",
+			"button",
+			"menu-show",
+			"1em0",
+			"fade(",
+			"-94px",
+			"sprites()",
+			"background-po",
+			"simply-scroll-clip",
+			"clip",
+			"width",
+			"div",
+			"/*!",
+			"font-size",
+			"p {",
+			"hover",
+			"#main-menu",
+			"#menu-header",
+			"main-menu",
+			"menu-show",
+			"#menu-show",
+			"SPRITES",
+			".gradient()",
+			"gradient",
+			"#d9d9d9",
+			"#e5e5e5",
+			"footer",
+			"Houses, Cottages",
+			"$countrySearchForm",
+			"$cleanPhigh",
+			"$F2Ldb",
+			"$cleanPhigh",
+			"retval",
+			"price range",
+			"test3",
+			"#citySearch",
+			"$hpay13",
+			"z_variables2.php",
+			"$seeListings",
+			".button",
+			".report",
+			"report",
+			"!empty($reqcountry)",
+			"$ads",
+			"!empty($reqcountry)",
+			"prov",
+			"$reqprov",
+			"findlistings",
+			"find",
+			"findlistings",
+			"angie",
+			"ol ",
+			"homepage-company",
+			"address",
+			"heating",
+			"sidebar-programs",
+			"$app1_loans",
+			"$app1_cc",
+			"$app2_employer",
+			"app2_employer_phone",
+			"app1_empl",
+			"$app2_po",
+			"unit",
+			"app2_other",
+			"app1_other",
+			"app2_other",
+			".\"' \" .",
+			"]) {",
+			"required",
+			".\"' \" . ",
+			"app2",
+			", \" .",
+			"	\"",
+			"1",
+			"liab1",
+			"liab1_cc",
+			"liab1_loan",
+			"liab1",
+			"1",
+			".\"' \" .",
+			"	\"'\".",
+			"$nowFormatted",
+			"af",
+			"form",
+			"universal",
+			"assets",
+			"cc",
+			"loan",
+			"2",
+			"1",
+			"\"assets_",
+			"\"app1",
+			"unautop",
+			";\n",
+			"homepage-prog",
+			"coaching",
+			"</span>",
+			"<span>",
+			" for=\"\"",
+			"outlinebutton",
+			"sidebar",
+			"homepage-programs",
+			".grey",
+			"width: 100",
+			"current",
+			"currently monthly",
+			"Confirm",
+			"confirm no fur",
+			"$siteEmail",
+			".signup",
+			"#sidebar ",
+			"#sidebar",
+			"wpautop",
+			" tabindex=\"\"",
+			"id=\"",
+			"<label for=\"",
+			"property-info-sheet",
+			"$return",
+			"$return1",
+			"homepage-propman",
+			"company-images",
+			"mortgage-",
+			"angie@trundlemedia.com",
+			"mortgage",
+			"mortgage-",
+			"req-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-81px",
+			"li",
+			"@bottom",
+			"@top",
+			".\"', \" .",
+			"",
+			".\"', \" .",
+			"property",
+			".\"' \" .",
+			"	\"'\".$",
+			"2",
+			"liab2",
+			"liab1_mortgages",
+			"liab1_cc",
+			"liab2",
+			"2",
+			"",
+			"liab",
+			"mortgages",
+			"cc",
+			"3",
+			"\"assets'.$app.'",
+			"3",
+			"2",
+			"\"assets'.$app.'",
+			"\"app'.$app.'",
+			"",
+			" for",
+			"",
+			"<label for=\"infosheet-",
+			"",
+			"_",
+			"wamproperties",
+			"<textarea id=\"infosheet-\" name=\"infosheet-\"></textarea>",
+			"mortgage-",
+			".pad();",
+			"@portrait",
+			"@landscape",
+			"",
+			" alt=\" ON\"",
+			"<p itemprop=\"address\"><span itemprop=\"streetAddress\">",
+			"(<span itemprop=\"telephone\">1-877-666-4101</span>)",
+			"<div class=\"location-hours\" itemprop=\"openingHours\">",
+			" class=\"location\" itemscope itemtype=\"http://schema.org/JewelryStore\">",
+			"class=\"location-hours\"",
+			"formdev@vrb.ca",
+			" x ",
+			" mm",
+			" x ",
+			"",
+			"</p>\n\n<p>",
+			"</p>\n <p>",
+			"$folder.\"/",
+			"/admin-keele/",
+			"<body id=\"inner\">",
+			"$getCurrentBid",
+			"$checkAuctionEnd",
+			"Article",
+			"$_POST",
+			"LIKE",
+			"@grey",
+			"include $_SERVER['DOCUMENT_ROOT'] . \"/includes/variables.php\";\n	<div id=\"content\" class=\"wrap\">",
+			"include $_SERVER['DOCUMENT_ROOT'] . \"/includes/variables.php\"; ?>\n	<div id=\"content\" class=\"wrap\">",
+			"include $_SERVER['DOCUMENT_ROOT'] . \"/includes/variables.php\";\n	<div id=\"content\" class=\"wrap\">",
+			"	<?php include $_SERVER['DOCUMENT_ROOT'] . \"/includes/banner.php\"; ?>\n	<div id=\"content\" class=\"wrap\">",
+			" &amp; ",
+			"/webfonts/",
+			"</p>\n</div>",
+			"</p> \n</div>",
+			"0.3s",
+			".menu-item-has-children",
+			"#menu-header",
+			"$pagelink",
+			"",
+			"@light",
+			"<div class=\"square col-xs-4\">",
+			"",
+			"<div class=\"row menusrow\">",
+			"</div>",
+			"				<div class=\"square\">",
+			"@blue",
+			"@grey",
+			"$pageId",
+			" href=\"inventory.php?cat=\"",
+			"@burgendy;",
+			"</div></div></div>",
+			"",
+			"				<div class=\"square\"><div class=\"content\">\n					<a href=\"#\">",
+			"<a href=\"#\" class=\"content\">",
+			" class=\"square\"",
+			"<h3>Jewelry Category here</h3>",
+			"col-xs-12 col-sm-4 col-md-3",
+			"col-xs-12 col-sm-4 col-md-3 col-lg-2",
+			"col-md-3",
+			"class=\"panel\"",
+			"col-sm-4 col-md-2",
+			"col-md-3",
+			"col-xs-12"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 61.0
+	},
+	"pinned_build_system": "",
+	"project": "PHP Snippets.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\WAM\\WAM\\html\\InternationalListings.sublime-workspace"
+			],
+			[
+				"tru",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Trundlemedia\\html\\Trundlemedia.sublime-project"
+			],
+			[
+				"lux",
+				"A:\\Dropbox\\VRB\\LuxuryHomesinBC\\html\\luxuryhomes.sublime-project"
+			],
+			[
+				"fa",
+				"A:\\Dropbox\\VRB\\Falls Chev\\html\\fallschev.sublime-project"
+			],
+			[
+				"free",
+				"A:\\Dropbox\\CRMS\\Excelagent Network\\WEBSITES\\Free2List\\html\\Free2List.sublime-project"
+			],
+			[
+				"tr",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Trundlemedia\\html\\Trundlemedia.sublime-project"
+			],
+			[
+				"sta",
+				"A:\\Dropbox\\VRB\\Stangls\\sandbox\\Stangls-Dev.sublime-project"
+			],
+			[
+				"bare",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\1 - Bare Wordpress Theme\\html\\Bare Theme Wordpress.sublime-project"
+			],
+			[
+				"ili",
+				"A:\\Dropbox\\CRMS\\Excelagent Network\\WEBSITES\\IListIt\\html\\ilistit.sublime-project"
+			],
+			[
+				"gen",
+				"A:\\Dropbox\\VRB\\GeneralAviation\\GeneralAviation\\html\\GeneralAviation.sublime-project"
+			],
+			[
+				"ge",
+				"A:\\Dropbox\\VRB\\GeneralAviation\\GeneralAviation\\html\\GeneralAviation.sublime-project"
+			],
+			[
+				"ball",
+				"A:\\Dropbox\\VRB\\Mexico Clients\\BalloteAndAssociates\\sandbox\\Ballote.sublime-project"
+			],
+			[
+				"jewelb",
+				"A:\\Dropbox\\Incom\\JewelBase templates\\new-html\\JewelBase - Clients and XML.sublime-project"
+			],
+			[
+				"VA",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Vanita's Rehab\\html\\VanitasRehab.sublime-project"
+			],
+			[
+				"va",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Vanita's Rehab\\html\\VanitasRehab.sublime-project"
+			],
+			[
+				"stang",
+				"A:\\Dropbox\\VRB\\Stangls\\sandbox\\Stangls-Dev.sublime-project"
+			],
+			[
+				"jul",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\JulieWiebePT\\html\\JulieWiebe.sublime-project"
+			],
+			[
+				"rin",
+				"A:\\Dropbox\\CRMS\\Rinaldi Homes\\html\\rinaldi.sublime-project"
+			],
+			[
+				"ju",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\JulieWiebePT\\html\\JulieWiebe.sublime-project"
+			],
+			[
+				"jewelcon",
+				"A:\\Dropbox\\Incom\\JewelConnect\\html\\JewelConnect.sublime-project"
+			],
+			[
+				"jewelconnect",
+				"A:\\Dropbox\\Incom\\JewelConnect\\html\\JewelConnect.sublime-project"
+			],
+			[
+				"vasta",
+				"A:\\Dropbox\\VRB\\Stangls\\sandbox\\Stangls-Dev.sublime-project"
+			],
+			[
+				"omni",
+				"A:\\Dropbox\\VRB\\Omni\\html\\OMNI Jewelcrafters.sublime-project"
+			],
+			[
+				"rom",
+				"A:\\Dropbox\\VRB\\Roman Groch\\Roman Groch\\html\\roman.sublime-project"
+			],
+			[
+				"lch",
+				"A:\\Dropbox\\VRB\\LCHS - human society\\html\\lchs.sublime-project"
+			],
+			[
+				"call",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\SWS\\CallKarl\\html\\CallKarl.sublime-project"
+			],
+			[
+				"ri",
+				"A:\\Dropbox\\CRMS\\Rinaldi Homes\\html\\rinaldi.sublime-project"
+			],
+			[
+				"jewe",
+				"A:\\Dropbox\\Incom\\JewelConnect\\html\\JewelConnect.sublime-project"
+			],
+			[
+				"BAG",
+				"A:\\Dropbox\\VRB\\Bagley\\html\\Bagley.sublime-project"
+			],
+			[
+				"ber",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\SWS\\Berman Stairs\\html\\BermanStairs.sublime-project"
+			],
+			[
+				"st",
+				"A:\\Dropbox\\VRB\\Stress and Trauma\\html\\StressAndTrauma.sublime-project"
+			],
+			[
+				"fre",
+				"A:\\Dropbox\\CRMS\\Excelagent Network\\WEBSITES\\Free2List\\html\\Free2List.sublime-project"
+			],
+			[
+				"omn",
+				"A:\\Dropbox\\VRB\\Omni\\html\\OMNI Jewelcrafters.sublime-project"
+			],
+			[
+				"wilker",
+				"A:\\Dropbox\\VRB\\Wilkersons\\html\\Wilkerson.sublime-project"
+			],
+			[
+				"ba",
+				"A:\\Dropbox\\VRB\\Falls Chev\\html\\sitefiles\\wp-content\\themes\\fallschev\\css\\bakelaar.sublime-project"
+			],
+			[
+				"r",
+				"A:\\Dropbox\\CRMS\\Rinaldi Homes\\html\\rinaldi.sublime-project"
+			],
+			[
+				"art",
+				"A:\\Dropbox\\VRB\\Artistry in Gold\\html\\ArtistryInGold.sublime-project"
+			],
+			[
+				"eart",
+				"A:\\Dropbox\\VRB\\Earth Treasures\\html\\earthTreasures.sublime-project"
+			],
+			[
+				"red",
+				"A:\\Dropbox\\VRB\\Red Deer Goldsmiths\\html\\RedDeerGoldsmith.sublime-project"
+			],
+			[
+				"care",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\WAM\\CARE\\html-wordpress-managed\\CARE-wordpress-managed.sublime-project"
+			],
+			[
+				"artistry",
+				"A:\\Dropbox\\VRB\\Artistry in Gold\\html - DEV\\ArtistryInGold DEV.sublime-workspace"
+			],
+			[
+				"rinal",
+				"A:\\Dropbox\\CRMS\\Rinaldi Homes\\html\\rinaldi.sublime-project"
+			],
+			[
+				"quee",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\SWS\\QueenstreetCarpentry\\html\\QueenStreetCarp.sublime-workspace"
+			],
+			[
+				"troy",
+				"A:\\Dropbox\\VRB\\Troy Shoppe Jewellers\\html\\TroyShoppe.sublime-project"
+			],
+			[
+				"em",
+				"A:\\Dropbox\\VRB\\Empire\\html\\empire.sublime-project"
+			],
+			[
+				"q",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\SWS\\QueenstreetCarpentry\\html\\QueenStreetCarp.sublime-project"
+			],
+			[
+				"BREA",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Vanita's Rehab\\html\\sitefiles\\wp-content\\themes\\vanitas-rehab\\css\\Breakiron.sublime-project"
+			],
+			[
+				"emp",
+				"A:\\Dropbox\\VRB\\Empire\\html\\empire.sublime-project"
+			],
+			[
+				"c",
+				"A:\\Dropbox\\TRUNDLEMEDIA\\Kerry Beauchesne\\CleanSlate\\html\\CleanSlate.sublime-project"
+			],
+			[
+				"bag",
+				"A:\\Dropbox\\VRB\\Bagley\\html\\Bagley.sublime-project"
+			],
+			[
+				"glenm",
+				"A:\\Dropbox\\VRB\\Earth Treasures\\html\\GlenMerritt.sublime-project"
+			],
+			[
+				"onsit",
+				"A:\\Dropbox\\VRB\\National IT\\OnSite Drapery\\html\\OnSite.sublime-project"
+			],
+			[
+				"co",
+				"/C/Users/Angie/Dropbox/VRB/LuxuryHomesinBC/cowichanValley/CowichanValley.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
