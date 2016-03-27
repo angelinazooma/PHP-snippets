@@ -26,6 +26,42 @@ function add_fonts() {
 add_action('wp_enqueue_scripts', 'add_fonts');
 
 
+///////////////////
+// SHORTCODES
+///////////////////
+
+
+
+// button shortcode
+// this will add a shortcode that has editable the link, page text, and a style rule for alignment
+// alignment primarily for buttons that are to the right side of the content
+
+function shortcode_button( $atts ) {
+	
+	$a = shortcode_atts ( array(
+			"text" => "More Services",
+			"page" => "services",
+			"align" => "none"),
+		$atts );
+	if($a['align']=="right") {
+		$style = 'style="float:right;"';
+	} elseif($a['align']=="left") {
+		$style = 'style="float:left;"';
+	} else {
+		$style = "";
+	}
+	if (strpos($a['page'], 'http') !== false) {
+		$display = '<a href="'.$a['page'].'" target="_blank" class="button" '.$style.'>'.$a['text'].'</a>';
+	} else {
+		$display = '<a href="'.esc_url(home_url('/')).$a['page'].'" class="button" '.$style.'>'.$a['text'].'</a>';
+	}
+
+	$display = str_replace( array( '<p>  </p>' ), '', $display );
+
+	return $display;
+}
+add_shortcode('button', 'shortcode_button');
+
 
 
 ?>
